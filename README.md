@@ -17,6 +17,9 @@
 * 石原里美
 * 村上春树
   
+这里百度 [百度](http://baidu.com)
+
+![一张图片](1.png)
 ```javascript
 var a = 1
 console.log(a)
